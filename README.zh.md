@@ -3,6 +3,8 @@
 把拍摄角度歪斜的投影幻灯片照片，自动校正成正面、平整的截图——自动找到每张
 幻灯片的四个角，矫正透视变形，并修正颜色。
 
+<img src="https://github.com/Erickrus/slide-flattener/blob/main/screenshot.png?raw=true" >
+
 ---
 
 ## 这个工具是做什么的，为什么有价值
