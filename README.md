@@ -4,6 +4,8 @@ Turn messy photos of projected slides into clean, straight-on screenshots —
 automatically finding each slide's four corners, flattening the perspective, and
 fixing the color.
 
+<img src="https://github.com/Erickrus/slide-flattener/blob/main/screenshot.png?raw=true" >
+
 ---
 
 ## What this does, and why it's valuable
